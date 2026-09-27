@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="旅行住宿优惠">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2778ff"/><stop offset="1" stop-color="#72c7ff"/></linearGradient></defs>
+  <rect width="800" height="420" rx="48" fill="url(#g)"/><circle cx="650" cy="92" r="84" fill="#fff" opacity=".22"/><path d="M74 333c194-68 410-68 652 0" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round" opacity=".3"/><path d="m183 216 244-51 96-93 47 4-61 109 112 65-37 26-135-39-95 79-44 9 45-106-151 36-51-17 30-22Z" fill="#fff"/><circle cx="138" cy="87" r="18" fill="#fff" opacity=".7"/><circle cx="202" cy="57" r="10" fill="#fff" opacity=".5"/>
+</svg>

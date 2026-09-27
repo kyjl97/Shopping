@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-labelledby="title desc">
+  <title id="title">流量卡优惠</title><desc id="desc">手机、信号与套餐卡的简洁插画</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4b7cff"/><stop offset="1" stop-color="#46d6b1"/></linearGradient></defs>
+  <rect width="720" height="320" rx="36" fill="url(#g)"/><circle cx="630" cy="42" r="105" fill="#fff" opacity=".12"/><circle cx="74" cy="290" r="130" fill="#102d7b" opacity=".13"/>
+  <rect x="276" y="42" width="168" height="236" rx="28" fill="#fff" opacity=".96"/><rect x="292" y="68" width="136" height="168" rx="14" fill="#dfeaff"/><circle cx="360" cy="256" r="9" fill="#4b7cff"/>
+  <path d="M326 183a48 48 0 0 1 68 0M338 165a31 31 0 0 1 44 0M351 148a13 13 0 0 1 18 0" fill="none" stroke="#4b7cff" stroke-width="10" stroke-linecap="round" transform="rotate(180 360 165)"/>
+  <rect x="101" y="102" width="126" height="82" rx="18" fill="#fff" opacity=".92"/><path d="M130 127h68M130 149h46" stroke="#4b7cff" stroke-width="10" stroke-linecap="round"/><rect x="493" y="110" width="126" height="82" rx="18" fill="#fff" opacity=".92"/><path d="M521 135h70M521 157h48" stroke="#20a984" stroke-width="10" stroke-linecap="round"/>
+</svg>

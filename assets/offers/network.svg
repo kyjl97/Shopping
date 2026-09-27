@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-labelledby="title desc">
+  <title id="title">网络服务</title><desc id="desc">地球、节点与连接线路的简洁插画</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087e8b"/><stop offset="1" stop-color="#49c5b6"/></linearGradient></defs>
+  <rect width="720" height="320" rx="36" fill="url(#g)"/><circle cx="360" cy="160" r="112" fill="#fff" opacity=".94"/><circle cx="360" cy="160" r="81" fill="none" stroke="#35aa9f" stroke-width="10"/><path d="M279 160h162M360 79c-46 46-46 116 0 162M360 79c46 46 46 116 0 162" fill="none" stroke="#35aa9f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M134 96l105 42M486 187l105 42" stroke="#fff" stroke-width="8" opacity=".8"/><circle cx="119" cy="90" r="25" fill="#fff"/><circle cx="604" cy="234" r="25" fill="#fff"/><circle cx="119" cy="90" r="10" fill="#087e8b"/><circle cx="604" cy="234" r="10" fill="#087e8b"/>
+</svg>

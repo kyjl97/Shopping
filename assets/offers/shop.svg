@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="购物省钱优惠">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9b4dff"/><stop offset="1" stop-color="#ef65b5"/></linearGradient></defs>
+  <rect width="800" height="420" rx="48" fill="url(#g)"/><circle cx="126" cy="94" r="105" fill="#fff" opacity=".15"/><path d="M249 161h302l-24 201H273l-24-201Z" fill="#fff"/><path d="M326 180v-42c0-50 32-82 74-82s74 32 74 82v42" fill="none" stroke="#fff" stroke-width="23" stroke-linecap="round"/><path d="M333 240c34 40 100 40 134 0" fill="none" stroke="#c14fbe" stroke-width="17" stroke-linecap="round"/><circle cx="335" cy="210" r="10" fill="#c14fbe"/><circle cx="465" cy="210" r="10" fill="#c14fbe"/>
+</svg>

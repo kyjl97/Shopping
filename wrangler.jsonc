@@ -1,0 +1,24 @@
+{
+  "name": "jieliu-savings",
+  "compatibility_date": "2026-09-28",
+  "main": "worker.js",
+  "observability": {
+    "enabled": true
+  },
+  "routes": [
+    {
+      "pattern": "1.jieliu.me",
+      "custom_domain": true
+    }
+  ],
+  "assets": {
+    "directory": ".cloudflare-dist",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      "binding": "DEALS_API",
+      "service": "jieliu-deals"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Cross-Origin-Opener-Policy: same-origin-allow-popups
+
+/deals.html
+  Cache-Control: public, max-age=300, must-revalidate
+
+/assets/*
+  Cache-Control: public, max-age=604800, immutable
+
